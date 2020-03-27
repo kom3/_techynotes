@@ -1,0 +1,12 @@
+{
+    "engineer": "",
+    "userreposdir": "/home/tony/Downloads/equinix/warriorframework_py3/warrior",
+    "pythonsrcdir": "/home/tony/Downloads/equinix/warriorframework_py3/warrior",
+    "xmldir": "/home/tony/Downloads/equinix/warriorframework_py3/warrior/Warriorspace/Testcases",
+    "testsuitedir": "/home/tony/Downloads/equinix/warriorframework_py3/warrior/Warriorspace/Suites",
+    "projdir": "/home/tony/Downloads/equinix/warriorframework_py3/warrior/Warriorspace/Projects",
+    "idfdir": "/home/tony/Downloads/equinix/warriorframework_py3/warrior/Warriorspace/Data",
+    "testdata": "/home/tony/Downloads/equinix/warriorframework_py3/warrior/Warriorspace/Config_files",
+    "testwrapper": "/home/tony/Downloads/equinix/warriorframework_py3/warrior/Warriorspace/wrapper_files",
+    "pythonpath": ""
+}
