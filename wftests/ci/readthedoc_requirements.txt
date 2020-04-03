@@ -1,5 +1,0 @@
-pexpect
-lxml
-paramiko
-selenium
-xlrd
